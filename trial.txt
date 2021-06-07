@@ -1,4 +1,5 @@
 1. Hello World!
 2. This is my first trial
-3. Thanks, bye.
-4. By the way, 
+3. Ich bin 
+4. Du bist
+5. sie/Sie 
